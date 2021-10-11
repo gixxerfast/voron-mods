@@ -10,7 +10,8 @@
  ## V2.4
  ### Voron 2.4 Plugpanel for unfiltered C14 inlet and separate button
  ![plugpanelV2.4](https://github.com/gixxerfast/voron-mods/blob/main/V2.4/plugpanelV2.4/img/plugpanel.png)
- 
+ ### Voron V0.1 Schaffner FN286-6-06 Inlet for the V2.4
+ ![Schaffner FN286-6-6 Inlet for the V2.4](https://github.com/gixxerfast/voron-mods/blob/main/V2.4/Schaffner-FN286-6-06%20Plug%20Panel/img/plug_panel.png)
  More to be added :-)
  
 
